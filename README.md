@@ -22,3 +22,6 @@ Took your feedback for README markdown formatting and stopped using backslash li
 
 Animated Hamburger Icon was built following this tutorial:
 - https://www.youtube.com/watch?v=dIyVTjJAkLw
+
+CSS Reset from:
+- https://meyerweb.com/eric/tools/css/reset
