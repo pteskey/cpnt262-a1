@@ -7,7 +7,6 @@ https://pteskey.github.io/cpnt262-a1
 https://github.com/pteskey/cpnt262-a1
 
 ## Context  
----
 
 For this assignment I went for a drop down nav bar toggled with a hamburger menu icon located on the top left side of the screen. 
 
@@ -20,7 +19,6 @@ The menu toggles with an eventListener on click whereas the button animation is 
 Took your feedback for README markdown formatting and stopped using backslash line breaks. This one looks much cleaner!
 
 ## Attributions  
----
 
 Animated Hamburger Icon was built following this tutorial:
 - https://www.youtube.com/watch?v=dIyVTjJAkLw
