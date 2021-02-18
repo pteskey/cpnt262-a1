@@ -1,11 +1,14 @@
 'use strict';
 
+// Variables
+
 const menuBtn = document.querySelector('.menu-btn');
-let menuOpen = false;
 const ul = document.querySelector('.nav');
+let menuOpen = false;
+
+// Events
 
 menuBtn.addEventListener('click', function () {
-
   ul.classList.toggle('movein');
 
   if (!menuOpen) {

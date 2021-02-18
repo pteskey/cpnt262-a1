@@ -114,5 +114,3 @@ ul li a:hover {
 .menu-btn.open .menu-btnBurger::after {
   transform: rotate(-45deg) translate(35px, 35px);
 }
-
-

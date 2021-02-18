@@ -13,7 +13,11 @@ For this assignment I went for a drop down nav bar toggled with a hamburger menu
 
 I initially tried to use SVG icons inside of buttons but was having issues with them overlapping and the clickable area was way too small.
 
-I then decided to go with an icon built with CSS pseudo elements and a little animation to go along with it.  
+I then decided to go with an icon built with CSS pseudo elements and a little animation to go along with it.
+
+The menu toggles with an eventListener on click whereas the button animation is based on the boolean value of the menu being open (true) or closed (false).
+
+Took your feedback for README markdown formatting and stopped using backslash line breaks. This one looks much cleaner!
 
 ## Attributions  
 ---
